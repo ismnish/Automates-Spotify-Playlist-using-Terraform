@@ -5,7 +5,6 @@
 3. **Spotify Account**: You need a Spotify account (without premium access)
 4. **Spotify Developer Account**: Register and create an application to get the Client ID and Client Secret.
 5. **Spotify Provider for Terraform**: Install and configure the Spotify provider for Terraform.
-6. **VS Code Editor**: Recommended for editing Terraform files.
 
 1. Creating Terraform Code
 2. Define Provider
